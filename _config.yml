@@ -1,0 +1,6 @@
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: Formal Verification of Critical Applications (FVOCA)
+description: CISTER-ISEP MScCCSE 2022/2023
+show_downloads: false
+logo: http://cister-labs.pt/mscccse/logo.png

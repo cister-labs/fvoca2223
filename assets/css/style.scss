@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.hide {
+  color: rgb(200, 200, 200);
+}
+
+a {
+  color: #0091c3;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 15px 0 10px;
+}
+
+ul, ol {
+  margin: 0;
+}
+
+p, table, pre, dl {
+margin: 15px 0 10px;
+}
