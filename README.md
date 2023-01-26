@@ -11,23 +11,17 @@ This course teaches the main principles of Formal Verification of Software, with
  -->
 
 1. __Mathematical Foundations__
-  - Set Theory
-  - Transition Systems
-  - Operational Semantics: Small-Step vs. Big-Step 
+  - Preliminaries:
+      - Set Theory
+      - Transition Systems
+  - Propositional and First-Order logics: 
+    - Syntax and Semantics
+    - Natural Deduction
+    - Automated Theorem Proving (SAT & SMT solving)
 
-2. __Formal Logic and Deductive Reasoning__
-  - Propositional Logic: 
-    - Syntax and Semantics
-    - Natural Deduction
-    - SAT solving
-  - First Order Logic: 
-    - Syntax and Semantics
-    - Natural Deduction
-    - SMT solving 
-<!--  - Abstract Program Semantics
-  - Design by Contract and Hoare Logic
-  - Verification of annotated programs
--->
+2. __Program Semantics__
+  - Small Step and Big Step Operational Semantics
+  - Hoare Logic's axiomatic semantics
 
 3. __Reasoning over Programs__
   - SAT and SMT solvers 
