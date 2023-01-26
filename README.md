@@ -12,12 +12,12 @@ This course teaches the main principles of Formal Verification of Software, with
 
 1. __Mathematical Foundations__
   - Preliminaries:
-      - Set Theory
-      - Transition Systems
+    * Set Theory
+    * Transition Systems
   - Propositional and First-Order logics: 
-    - Syntax and Semantics
-    - Natural Deduction
-    - Automated Theorem Proving (SAT & SMT solving)
+    * Syntax and Semantics
+    * Natural Deduction
+    * Automated Theorem Proving (SAT & SMT solving)
 
 2. __Program Semantics__
   - Small Step and Big Step Operational Semantics
